@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Ai Chain",
+    "url": "https://explorertest.boincai.com/",
+    "group": "Testnets",
+    "isActive": true,
+    "icon": "https://temporary-storage.4everland.store/logo.svg",
+    "invertIconInDarkMode": true
+  }
+]
