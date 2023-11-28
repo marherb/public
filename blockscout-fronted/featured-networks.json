@@ -1,0 +1,10 @@
+[
+  {
+    "title": "BOBChain Testnet",
+    "url": "https://explorertest.boincai.com/",
+    "group": "Testnets",
+    "isActive": true,
+    "icon": "/static/logo.svg",
+    "invertIconInDarkMode": true
+  }
+]
