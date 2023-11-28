@@ -4,7 +4,7 @@
     "url": "https://explorertest.boincai.com/",
     "group": "Testnets",
     "isActive": true,
-    "icon": "/static/logo.svg",
-    "invertIconInDarkMode": true
+    "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
+    "invertIconInDarkMode": false
   }
 ]
