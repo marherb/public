@@ -11,7 +11,7 @@
     "title": "OPBOB Testnet",
     "url": "http://8.222.246.232:4000/",
     "group": "Testnets",
-    "isActive": true,
+    "isActive": false,
     "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
     "invertIconInDarkMode": false
   }
