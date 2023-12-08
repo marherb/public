@@ -1,0 +1,18 @@
+[
+  {
+    "title": "BOBChain Testnet",
+    "url": "https://explorertest.boincai.com/",
+    "group": "Testnets",
+    "isActive": true,
+    "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
+    "invertIconInDarkMode": false
+  },
+  {
+    "title": "OPBOB Testnet",
+    "url": "http://8.222.246.232:4000/",
+    "group": "Testnets",
+    "isActive": false,
+    "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
+    "invertIconInDarkMode": false
+  }
+]
