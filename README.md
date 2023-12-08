@@ -5,3 +5,6 @@
 ## blockscout-fronted
 
 区块浏览器前端配置
+
+featured-networks.json // L1 链区块浏览器配置
+featured-networks-l2.json // L2 链区块浏览器配置

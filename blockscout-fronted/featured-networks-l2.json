@@ -14,5 +14,13 @@
     "isActive": true,
     "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
     "invertIconInDarkMode": false
+  },
+  {
+    "title": "BOBChain Bridge",
+    "url": "https://boinai-bridge-build.4everland.app/",
+    "group": "Testnets",
+    "isActive": false,
+    "icon": "https://raw.githubusercontent.com/marherb/public/main/blockscout-fronted/icon.svg",
+    "invertIconInDarkMode": false
   }
 ]
